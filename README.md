@@ -109,6 +109,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+~~~
 #include<stdio.h>
 int main(){
     int number=15,i;
@@ -117,6 +118,7 @@ int main(){
     }
     return 0;
 }
+~~~
 # Output:
 <img width="199" height="432" alt="image" src="https://github.com/user-attachments/assets/b74884c9-3fca-4645-8f35-c41cfb6685de" />
 
@@ -162,6 +164,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+```
 #include<stdio.h>
 int main(){
     int n, i = 2, f = 0;
@@ -179,7 +182,7 @@ int main(){
         printf("%d is not a prime number.\n", n);
     return 0;
 }
-
+```
 # Output:
 <img width="467" height="238" alt="image" src="https://github.com/user-attachments/assets/e28d7b0f-3166-4b11-84ed-1a45c7e69d06" />
 
@@ -230,6 +233,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include<stdio.h>
 
 int main(){
@@ -256,7 +260,7 @@ int main(){
     
     return 0;
 }
-
+```
 # Output:
 <img width="272" height="255" alt="image" src="https://github.com/user-attachments/assets/da7cb2eb-0d0e-4c78-ac5a-7c9eca133b90" />
 
